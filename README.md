@@ -1,1 +1,1 @@
-Task 0.where are i?
+Display the content of the /etc/passwd file

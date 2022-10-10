@@ -1,1 +1,1 @@
-Shell I/0 redirections
+Display the content of the /etc/passwd file

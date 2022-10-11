@@ -1,1 +1,1 @@
-write a command that finds all empty files and directories in the current directory and sub-directories
+ write a script that list all the files with a .gif extension in the current directory and sub-directories

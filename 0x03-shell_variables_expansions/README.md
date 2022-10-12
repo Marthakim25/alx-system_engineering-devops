@@ -1,1 +1,1 @@
-write a script that prints every other line from the input,starting with the first line
+write a script that prints every other line from the input,starting from the first line
